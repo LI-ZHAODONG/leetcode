@@ -1,2 +1,2 @@
 # Leetcode
-Not constrain for leetcode questions
+Not only have leetcode questions
