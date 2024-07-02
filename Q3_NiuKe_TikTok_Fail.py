@@ -43,38 +43,3 @@ for add in range(1, 10, 1):
                     count_dictionary[key + 2] -= 1
     if all(value == 0 for value in count_dictionary.values()):
         print(add)
-
-# 输入例子：
-# 1 1 1 1 2 2 3 3 5 6 7 8 9
-# 输出例子：
-# 4 7
-# 例子说明：
-# 用1做雀头，组123,123,567或456,789的四个顺子
-
-# while True:
-#     if True:
-#         input_lines.append(1)
-#
-#     if True:
-#         input_lines.append(2)
-#
-#     if True:
-#         input_lines.append(3)
-#
-#     if True:
-#         input_lines.append(4)
-#
-#     if True:
-#         input_lines.append(5)
-#
-#     if True:
-#         input_lines.append(6)
-#
-#     if True:
-#         input_lines.append(7)
-#
-#     if True:
-#         input_lines.append(8)
-#
-#     if True:
-#         input_lines.append(9)
