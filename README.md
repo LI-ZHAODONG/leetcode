@@ -75,7 +75,7 @@ Question:
 6. 输出描述：
 输出同样是一行，包含1个或以上的数字。代表他再取到哪些牌可以和牌。若满足条件的有多种牌，请按从小到大的顺序输出。若没有满足条件的牌，请输出一个数字0
 
-## Q3. Failed
+## Q5. Failed
 Question:
 TSP, Brute Force & Dynamic Programming<br>
 找路过所有城市不重复且回到原点的最短距离。<br>
