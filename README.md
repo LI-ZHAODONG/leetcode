@@ -87,3 +87,17 @@ TSP, Brute Force & Dynamic Programming<br>
 5 4 2 0<br>
 输出例子：<br>
 13
+
+## Q6.
+Question:
+1. Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+2. You may assume that each input would have exactly one solution, and you may not use the same element twice.<br>
+Example:<br>
+Input: nums = [2,7,11,15], target = 9<br>
+Output: [0,1]<br>
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+
+Learnt:<br>
+1. Hash Table: Store index as value in a Dictionary not and Array cuz please see the Example, key can be any value.
+2. Dictionary can be give value by index like in an Array way!?!?!?!
+3. Cuz we need index not value, so if the target - nums[i] is in numsToIndex, then just return the index.
