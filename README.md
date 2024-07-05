@@ -102,7 +102,7 @@ Learnt:<br>
 2. Dictionary can be give value by index like in an Array way!?!?!?!
 3. Cuz we need index not value, so if the target - nums[i] is in numsToIndex, then just return the index.
 
-## Q6.
+## Q7.
 Question:
 1. Palindrome Number
 2. If negative then False, "121" - True; "1221" - True; "10" - False.
