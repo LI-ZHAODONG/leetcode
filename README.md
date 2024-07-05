@@ -101,3 +101,16 @@ Learnt:<br>
 1. Hash Table: Store index as value in a Dictionary not and Array cuz please see the Example, key can be any value.
 2. Dictionary can be give value by index like in an Array way!?!?!?!
 3. Cuz we need index not value, so if the target - nums[i] is in numsToIndex, then just return the index.
+
+## Q6.
+Question:
+1. Palindrome Number
+2. If negative then False, "121" - True; "1221" - True; "10" - False.
+   
+Learnt:
+1. "//" is as same as "int()"
+2. "x //= 10" =》 12321 -> 1232 -> 123 -> 12 -> 1 -> 0!!!
+3. Formula can be reversed!!!
+4. divided by and the modulas: 10 * res + modulas = x
+5. When return statement be given a condition signal e.g. reverse == xcopy. The "==" is a condition to judge T or F.
+6. return in a "if" statement can return previously.
