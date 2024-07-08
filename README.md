@@ -121,13 +121,13 @@ Question:<br>
 2. X can be placed before L (50) and C (100) to make 40 and 90.
 3. C can be placed before D (500) and M (1000) to make 400 and 900.<br>
 Symbol       Value<br>
-I: 1<br>
-V: 5<br>
-X: 10<br>
-L: 50<br>
-C: 100<br>
-D: 500<br>
-M: 1000
+I:   1<br>
+V:   5<br>
+X:   10<br>
+L:   50<br>
+C:   100<br>
+D:   500<br>
+M:   1000
 
 Learnt:
 1. "strip("xy")" for remove things(all the "xy"), "split(",")" for split things by space and shit into array.
