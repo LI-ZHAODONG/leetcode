@@ -134,4 +134,4 @@ Learnt:
 2. s.replace("Y", "XXX") can replace any value in a String value.
 3. In dictionary, the Key is its Index. so I can use Dic[something] to call the value.
 4. In this question, convert them into simple Value, so that no need bunch of "If" statements.
-5. If  a for loop you wanna use i and i+1, then the length will be -1 accoring to the +x.
+5. If  a for loop you want to use i and i+1, then the length will be -1 according to the +x.
