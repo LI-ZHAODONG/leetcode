@@ -114,3 +114,24 @@ Learnt:
 4. divided by and the modulas: 10 * res + modulas = x
 5. When return statement be given a condition signal e.g. reverse == xcopy. The "==" is a condition to judge T or F.
 6. return in a "if" statement can return previously.
+
+## Q8.
+Question:<br>
+I can be placed before V (5) and X (10) to make 4 and 9. <br>
+X can be placed before L (50) and C (100) to make 40 and 90. <br>
+C can be placed before D (500) and M (1000) to make 400 and 900. <br>
+Symbol       Value<br>
+I             1<br>
+V             5<br>
+X             10<br>
+L             50<br>
+C             100<br>
+D             500<br>
+M             1000
+
+Learnt:
+1. "strip("xy")" for remove things(all the "xy"), "split(",")" for split things by space and shit into array.
+2. s.replace("Y", "XXX") can replace any value in a String value.
+3. In dictionary, the Key is its Index. so I can use Dic[something] to call the value.
+4. In this question, convert them into simple Value, so that no need bunch of "If" statements.
+5. If  a for loop you wanna use i and i+1, then the length will be -1 accoring to the +x.
