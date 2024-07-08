@@ -119,7 +119,7 @@ Learnt:
 Question:<br>
 1. I can be placed before V (5) and X (10) to make 4 and 9.
 2. X can be placed before L (50) and C (100) to make 40 and 90.
-3. C can be placed before D (500) and M (1000) to make 400 and 900.
+3. C can be placed before D (500) and M (1000) to make 400 and 900.<br>
 Symbol       Value<br>
 I: 1<br>
 V: 5<br>
