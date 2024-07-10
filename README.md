@@ -135,3 +135,22 @@ Learnt:
 3. In dictionary, the Key is its Index. so I can use Dic[something] to call the value.
 4. In this question, convert them into simple Value, so that no need bunch of "If" statements.
 5. If  a for loop you want to use i and i+1, then the length will be -1 according to the +x.
+
+## Q9.
+Question:<br>
+1. Write a function to find the longest common prefix string amongst an array of strings.
+2. If there is no common prefix, return an empty string "".<br>
+
+Example 1:<br>
+Input: strs = ["flower","flow","flight"]<br>
+Output: "fl"<br>
+<br>
+Example 2:<br>
+Input: strs = ["dog","racecar","car"]<br>
+Output: ""<br>
+Explanation: There is no common prefix among the input strings.<br>
+<br>
+Learnt: 
+1. .find("xxx"), if can find the sub val in a parent value, then return the starting index. because the question needs prefix, so the starting index must be 0.
+2. [1:],from the second val, [:-1] except the last second value. val can be a string.
+3. Use the first val, because we are searching for comman prefix.
