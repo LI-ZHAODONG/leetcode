@@ -154,3 +154,15 @@ Learnt:
 1. .find("xxx"), if can find the sub val in a parent value, then return the starting index. because the question needs prefix, so the starting index must be 0.
 2. [1:],from the second val, [:-1] except the last second value. val can be a string.
 3. Use the first val, because we are searching for comman prefix.
+
+## Q10.
+Question:<br>
+Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.<br>
+1. Open brackets must be closed by the same type of brackets.
+2. Open brackets must be closed in the correct order.
+3. Every close bracket has a corresponding open bracket of the same type.
+
+Learnt:
+1. if it is in dictionary means the key not value
+2. stack.pop() can remember the value and pop the last value.
+3. Dic is really useful.
